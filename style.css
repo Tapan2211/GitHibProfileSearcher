@@ -1,0 +1,34 @@
+input:focus {
+    border: 1px solid #ffd700;
+    box-shadow: 0 0 3px #ffd700;
+    outline-offset: 0px;
+    outline: none;
+  }
+  
+  .card-main {
+    background-color: #808080;
+    border-radius: 8px;
+  }
+  
+  .user-img {
+    border-radius: 50%;
+    border: 2px solid #ffffff;
+    height: 70px;
+    width: 70px;
+  }
+  
+  .user-detail {
+    padding: 10px;
+  }
+  
+  .text-title {
+    color: white;
+    font-weight: bold;
+  }
+  
+  .text-detail {
+    color: white;
+    font-size: 14px;
+    margin: 5px;
+  }
+  
